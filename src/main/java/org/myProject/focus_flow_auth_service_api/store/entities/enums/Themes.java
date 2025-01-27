@@ -1,0 +1,5 @@
+package org.myProject.focus_flow_auth_service_api.store.entities.enums;
+
+public enum Themes {
+    DARK, LIGHT, SYSTEM
+}
